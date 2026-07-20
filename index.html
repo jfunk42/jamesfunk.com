@@ -67,6 +67,112 @@
         <li>Ad-free experience built around learning</li>
       </ul>
     </section>
+
+    <section class="details support-section">
+      <h2>Send feedback or report an issue</h2>
+      <p class="section-copy">
+        This form opens a pre-filled GitHub issue for the app repository so you can review it
+        and submit it there. More app forms can be added using the same layout.
+      </p>
+
+      <article class="support-card">
+        <div class="support-card-header">
+          <div>
+            <p class="support-label">App issue form</p>
+            <h3>Math Quiz App</h3>
+          </div>
+          <a
+            class="text-link"
+            href="https://github.com/jfunk42/multiplication-practice/issues"
+            target="_blank"
+            rel="noreferrer"
+          >View GitHub issues</a>
+        </div>
+
+        <form
+          class="github-issue-form"
+          data-github-repo="jfunk42/multiplication-practice"
+          data-app-name="Math Quiz App"
+        >
+          <div class="form-grid">
+            <label>
+              <span>Issue type</span>
+              <select name="issueType" required>
+                <option value="Bug report">Bug report</option>
+                <option value="Feature request">Feature request</option>
+                <option value="General feedback">General feedback</option>
+              </select>
+            </label>
+
+            <label>
+              <span>Short summary</span>
+              <input
+                type="text"
+                name="summary"
+                maxlength="120"
+                placeholder="Example: Quiz history should show the date"
+                required
+              >
+            </label>
+
+            <label class="full-width">
+              <span>Details</span>
+              <textarea
+                name="details"
+                rows="5"
+                placeholder="Describe the problem, request, or feedback."
+                required
+              ></textarea>
+            </label>
+
+            <label class="full-width">
+              <span>Steps to reproduce (optional)</span>
+              <textarea
+                name="steps"
+                rows="4"
+                placeholder="1. Open the app&#10;2. Start a quiz&#10;3. ..."
+              ></textarea>
+            </label>
+
+            <label>
+              <span>Expected result (optional)</span>
+              <input
+                type="text"
+                name="expected"
+                maxlength="160"
+                placeholder="What you expected to happen"
+              >
+            </label>
+
+            <label>
+              <span>Device or browser (optional)</span>
+              <input
+                type="text"
+                name="environment"
+                maxlength="160"
+                placeholder="Pixel 8, iPhone 15, Chrome on Mac, etc."
+              >
+            </label>
+
+            <label class="full-width">
+              <span>Contact info (optional)</span>
+              <input
+                type="text"
+                name="contact"
+                maxlength="160"
+                placeholder="Email or GitHub username if you want follow-up"
+              >
+            </label>
+          </div>
+
+          <div class="form-actions">
+            <button class="button-link button-button" type="submit">Open GitHub issue</button>
+            <p class="form-note">GitHub opens in a new tab with this issue pre-filled.</p>
+          </div>
+        </form>
+      </article>
+    </section>
   </main>
+  <script src="script.js"></script>
 </body>
 </html>
