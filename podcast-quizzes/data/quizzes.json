@@ -1,9 +1,113 @@
 [
   {
+    "title": "Testing the Limits: The Persistent Mysteries of Gravity and Quantum Entanglement",
+    "publishedAt": "2026-09-20",
+    "description": "Test your knowledge on the challenges of measuring the universal gravitational constant and the resilience of quantum entanglement in extreme environments.",
+    "tags": [
+      "gravity",
+      "quantum mechanics",
+      "particle physics",
+      "metrology"
+    ],
+    "questions": [
+      {
+        "question": "What was the purpose of the secret, random offset added by the NIST researchers during their decade-long measurement of the gravitational constant (G)?",
+        "choices": [
+          {
+            "text": "To prevent confirmation bias, ensuring researchers analyzed data without knowing how their adjustments affected the final value of G until the study was completed.",
+            "correct": true,
+            "explanation": "The transcript states that a blind analysis was used with a random, hidden offset to protect against confirmation bias, preventing scientists from unconsciously guiding their results toward the expected standard.",
+            "source": {
+              "label": "Scientists opened a sealed envelope after 10 years. Gravity still didn\u2019t make sense",
+              "url": "https://www.sciencedaily.com/releases/2026/09/260920032049.htm"
+            }
+          },
+          {
+            "text": "To align their final results with the measurements of other leading international laboratories that also used blind analysis.",
+            "correct": false,
+            "explanation": "This is incorrect because the offset was randomized and kept entirely secret specifically to avoid aligning with existing measurements, and the final results actually differed unexpectedly from another leading result."
+          },
+          {
+            "text": "To artificially amplify the weak gravitational force between human-sized objects so it could overcome environmental noise.",
+            "correct": false,
+            "explanation": "This is incorrect because the software offset was a data-scrambling tool to prevent cognitive bias, not a physical mechanism to amplify the weak force of gravity."
+          },
+          {
+            "text": "To calibrate the underground sensors against cosmic ray interference and groundwater shifts.",
+            "correct": false,
+            "explanation": "This is incorrect because environmental factors like groundwater were controlled physically by isolating the apparatus, whereas the software offset was strictly used to blind researchers to the raw numerical outcomes."
+          }
+        ]
+      },
+      {
+        "question": "In the extreme test conducted at CERN, how did physicists demonstrate the resilience of quantum entanglement?",
+        "choices": [
+          {
+            "text": "By detecting evidence of quantum entanglement in heavy, highly unstable Z bosons produced during the decay of Higgs bosons.",
+            "correct": true,
+            "explanation": "The transcript explains that CERN physicists observed entanglement in the heavy, fleeting Z bosons produced during Higgs boson decays, demonstrating that quantum entanglement survives even in the chaotic, high-energy environment of particle collisions.",
+            "source": {
+              "label": "Einstein\u2019s \u201cspooky action\u201d just survived one of physics\u2019 most extreme tests",
+              "url": "https://www.sciencedaily.com/releases/2026/09/260919031023.htm"
+            }
+          },
+          {
+            "text": "By transmitting entangled photons through low-temperature optical fibers across the Franco-Swiss border.",
+            "correct": false,
+            "explanation": "This is incorrect because transmitting photons through fiber optics refers to traditional, low-energy entanglement tests, whereas the CERN test evaluated heavy, unstable Z bosons in a high-energy particle accelerator."
+          },
+          {
+            "text": "By using ultra-cold vacuum chambers to freeze Higgs bosons, preventing decoherence over several minutes.",
+            "correct": false,
+            "explanation": "This is incorrect because Higgs bosons are highly unstable, decaying in a tiny fraction of a second, and were not frozen or preserved in ultra-cold vacuum chambers for this experiment."
+          },
+          {
+            "text": "By proving that information travels faster than the speed of light between Z bosons separated by astronomical distances.",
+            "correct": false,
+            "explanation": "This is incorrect because while entanglement represents an instantaneous quantum connection, it does not violate the principle that information cannot be transmitted faster than light, and the Z bosons decayed almost instantly within the LHC detectors rather than across astronomical distances."
+          }
+        ]
+      },
+      {
+        "question": "Why is the universal gravitational constant (G) considered the most difficult fundamental constant to measure?",
+        "choices": [
+          {
+            "text": "Gravity is extremely weak on a human scale compared to other fundamental forces, making its attraction easily masked by tiny environmental factors.",
+            "correct": true,
+            "explanation": "The transcript explains that gravity is phenomenally weak compared to forces like electromagnetism, meaning small gravitational attractions are easily masked by breezes, passing trucks, or electrostatic charges.",
+            "source": {
+              "label": "Scientists opened a sealed envelope after 10 years. Gravity still didn\u2019t make sense",
+              "url": "https://www.sciencedaily.com/releases/2026/09/260920032049.htm"
+            }
+          },
+          {
+            "text": "The value of G fluctuates wildly depending on the time of year and the alignment of the Earth and Moon.",
+            "correct": false,
+            "explanation": "This is incorrect because fundamental constants like G are thought to remain the same everywhere in the universe and do not change over time."
+          },
+          {
+            "text": "It can only be measured by recording the gravitational pull of massive objects like stars or black holes.",
+            "correct": false,
+            "explanation": "This is incorrect because scientists have measured G in laboratories using human-scale apparatuses, such as lead spheres, since the late eighteenth century."
+          },
+          {
+            "text": "Quantum mechanics predicts that gravity ceases to exist entirely once particles are separated by more than a few centimeters.",
+            "correct": false,
+            "explanation": "This is incorrect because quantum mechanics does not claim gravity disappears at centimeters; rather, the mathematics breaks down when trying to reconcile general relativity and quantum mechanics at subatomic scales."
+          }
+        ]
+      }
+    ]
+  },
+  {
     "title": "The Million-Year-Old Infant",
     "publishedAt": "2026-09-19",
     "description": "Test what the discovery of Elias 2-24 b reveals about how planets form.",
-    "tags": ["astronomy", "exoplanets", "planet formation"],
+    "tags": [
+      "astronomy",
+      "exoplanets",
+      "planet formation"
+    ],
     "questions": [
       {
         "question": "Why is Elias 2-24 b unusually important to astronomers?",
@@ -98,7 +202,11 @@
     "title": "The Moon's New Scar",
     "publishedAt": "2026-09-17",
     "description": "Explore what a newly observed lunar impact teaches scientists about the Moon's changing surface.",
-    "tags": ["moon", "impacts", "planetary science"],
+    "tags": [
+      "moon",
+      "impacts",
+      "planetary science"
+    ],
     "questions": [
       {
         "question": "What made the newly reported lunar impact especially remarkable?",
