@@ -89,6 +89,19 @@ h1 {
   box-shadow: 0 14px 28px rgba(47, 109, 246, 0.32);
 }
 
+.secondary-button {
+  margin-left: 12px;
+  color: var(--accent);
+  background: var(--surface);
+  box-shadow: none;
+  border: 1px solid var(--border);
+}
+
+.secondary-button:hover,
+.secondary-button:focus-visible {
+  box-shadow: 0 8px 18px rgba(27, 52, 97, 0.12);
+}
+
 .card-grid {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
@@ -240,6 +253,10 @@ h1 {
   .form-actions {
     flex-direction: column;
     align-items: stretch;
+  }
+
+  .secondary-button {
+    margin: 12px 0 0;
   }
 
   .form-grid {

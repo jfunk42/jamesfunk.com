@@ -1,0 +1,192 @@
+[
+  {
+    "title": "The Million-Year-Old Infant",
+    "publishedAt": "2026-09-19",
+    "description": "Test what the discovery of Elias 2-24 b reveals about how planets form.",
+    "tags": ["astronomy", "exoplanets", "planet formation"],
+    "questions": [
+      {
+        "question": "Why is Elias 2-24 b unusually important to astronomers?",
+        "choices": [
+          {
+            "text": "It is the youngest confirmed planet yet found.",
+            "correct": true,
+            "explanation": "Correct. Elias 2-24 b is about one million years old, making it the youngest confirmed exoplanet known at the time of the report.",
+            "source": {
+              "label": "NASA: Newfound 'Baby' Planet Smashes Record for Youngest Known World",
+              "url": "https://science.nasa.gov/universe/newfound-baby-planet-smashes-record-for-youngest-known-world/"
+            }
+          },
+          {
+            "text": "It is the closest confirmed planet to Earth.",
+            "correct": false,
+            "explanation": "Elias 2-24 b is notable for its age, not for being the nearest exoplanet to Earth."
+          },
+          {
+            "text": "It is the first planet found outside the Milky Way.",
+            "correct": false,
+            "explanation": "Elias 2-24 b orbits a young star in the Milky Way; no planet outside our galaxy has been confirmed this way."
+          },
+          {
+            "text": "It is made entirely of gas with no solid material.",
+            "correct": false,
+            "explanation": "The discovery concerns a young planet forming in a disk of gas and dust, not a planet known to contain no solid material."
+          }
+        ]
+      },
+      {
+        "question": "What observation helped confirm the presence of Elias 2-24 b?",
+        "choices": [
+          {
+            "text": "A localized change in the motion of gas in its protoplanetary disk.",
+            "correct": true,
+            "explanation": "Correct. Researchers identified a velocity kink: a localized disturbance in disk gas consistent with a planet's gravitational influence.",
+            "source": {
+              "label": "Bernardi et al.: confirmation of Elias 2-24 b",
+              "url": "https://doi.org/10.3847/2041-8213/ae9bb6"
+            }
+          },
+          {
+            "text": "A radio message sent by the planet.",
+            "correct": false,
+            "explanation": "Planets do not send radio messages; the evidence came from measured motions of gas in the surrounding disk."
+          },
+          {
+            "text": "A transit that completely eclipsed its star.",
+            "correct": false,
+            "explanation": "The report describes evidence from the planet's effect on disk gas, not a total eclipse observed from a transit."
+          },
+          {
+            "text": "A sample returned from the planet's atmosphere.",
+            "correct": false,
+            "explanation": "No spacecraft has visited Elias 2-24 b. The evidence was collected remotely with astronomical observations."
+          }
+        ]
+      },
+      {
+        "question": "What is a protoplanetary disk?",
+        "choices": [
+          {
+            "text": "A rotating disk of gas and dust around a young star where planets can form.",
+            "correct": true,
+            "explanation": "Correct. Protoplanetary disks supply the gas and dust from which planets emerge around young stars.",
+            "source": {
+              "label": "NASA Exoplanets",
+              "url": "https://science.nasa.gov/exoplanets/"
+            }
+          },
+          {
+            "text": "The solid outer layer of an already formed rocky planet.",
+            "correct": false,
+            "explanation": "A protoplanetary disk surrounds a young star; it is not a layer of a finished planet."
+          },
+          {
+            "text": "A ring of debris left after a star explodes.",
+            "correct": false,
+            "explanation": "Supernova remnants can contain debris, but they are not the gas-and-dust disks where planets form."
+          },
+          {
+            "text": "A region beyond a galaxy where stars cannot form.",
+            "correct": false,
+            "explanation": "Protoplanetary disks are small-scale structures around individual young stars, not regions outside galaxies."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "The Moon's New Scar",
+    "publishedAt": "2026-09-17",
+    "description": "Explore what a newly observed lunar impact teaches scientists about the Moon's changing surface.",
+    "tags": ["moon", "impacts", "planetary science"],
+    "questions": [
+      {
+        "question": "What made the newly reported lunar impact especially remarkable?",
+        "choices": [
+          {
+            "text": "It was the largest modern impact observed on the Moon.",
+            "correct": true,
+            "explanation": "Correct. The report describes a larger modern lunar impact than the many smaller craters observed during the Lunar Reconnaissance Orbiter mission.",
+            "source": {
+              "label": "ScienceDaily: The Moon's new scar",
+              "url": "https://www.sciencedaily.com/releases/2026/09/260917003715.htm"
+            }
+          },
+          {
+            "text": "It created the Moon's first crater.",
+            "correct": false,
+            "explanation": "The Moon has a long history of impacts and countless craters; this was notable as a large modern event, not the first crater."
+          },
+          {
+            "text": "It was caused by a spacecraft landing.",
+            "correct": false,
+            "explanation": "The report concerns a natural impact, not a planned spacecraft landing."
+          },
+          {
+            "text": "It split the Moon into two pieces.",
+            "correct": false,
+            "explanation": "The impact changed a small portion of the lunar surface; it did not alter the Moon's overall structure."
+          }
+        ]
+      },
+      {
+        "question": "What does ejecta mean in the context of an impact crater?",
+        "choices": [
+          {
+            "text": "Rock and dust thrown outward by the impact.",
+            "correct": true,
+            "explanation": "Correct. Ejecta is material excavated and launched away from an impact site.",
+            "source": {
+              "label": "ScienceDaily: The Moon's new scar",
+              "url": "https://www.sciencedaily.com/releases/2026/09/260917003715.htm"
+            }
+          },
+          {
+            "text": "A telescope used to photograph the crater.",
+            "correct": false,
+            "explanation": "Ejecta describes material from the impact, not an observing instrument."
+          },
+          {
+            "text": "The Moon's invisible magnetic field.",
+            "correct": false,
+            "explanation": "A magnetic field is unrelated to the definition of ejecta."
+          },
+          {
+            "text": "The center of the crater after it cools.",
+            "correct": false,
+            "explanation": "Ejecta is material expelled from the impact site, rather than the cooled center of a crater."
+          }
+        ]
+      },
+      {
+        "question": "Which factor is used in planetary-science scaling laws for impacts?",
+        "choices": [
+          {
+            "text": "The gravity of the impacted body.",
+            "correct": true,
+            "explanation": "Correct. Impact scaling laws account for factors including the target body's gravity, the target material's density, and the impactor's likely speed.",
+            "source": {
+              "label": "ScienceDaily: The Moon's new scar",
+              "url": "https://www.sciencedaily.com/releases/2026/09/260917003715.htm"
+            }
+          },
+          {
+            "text": "The number of people watching the impact.",
+            "correct": false,
+            "explanation": "Observers do not affect an impact's physical outcome or the scaling laws used to study it."
+          },
+          {
+            "text": "The color of the impactor in visible light.",
+            "correct": false,
+            "explanation": "Color is not one of the physical inputs identified for estimating impact effects."
+          },
+          {
+            "text": "The day of the week on Earth.",
+            "correct": false,
+            "explanation": "An Earth calendar date has no physical role in lunar impact scaling laws."
+          }
+        ]
+      }
+    ]
+  }
+]
