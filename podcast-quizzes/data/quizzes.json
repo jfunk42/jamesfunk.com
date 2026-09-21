@@ -1,5 +1,105 @@
 [
   {
+    "title": "High-Energy Windows to the Violent Universe",
+    "publishedAt": "2026-09-21",
+    "description": "Challenge your understanding of the high-energy cosmos with this quiz on the XRISM, COSI, and StarBurst space missions.",
+    "tags": [
+      "Astrophysics",
+      "Space Missions",
+      "Gamma-rays",
+      "X-rays"
+    ],
+    "questions": [
+      {
+        "question": "What did scientists observe using the XRISM space observatory that clarified how pulsars interact with their companion stars?",
+        "choices": [
+          {
+            "text": "The pulsar directly capturing its companion star's outward-flowing stellar wind, which heats up and powers strong, unpredictable X-ray flares.",
+            "correct": true,
+            "explanation": "XRISM's high-precision spectroscopy allowed scientists to observe the pulsar acting like a gravitational vacuum, capturing the companion's stellar wind, heating it to millions of degrees, and causing it to emit X-ray flares.",
+            "source": {
+              "label": "NASA-JAXA XRISM Mission Sees Pulsar Gathering Companion\u2019s \u2018Wind\u2019",
+              "url": "https://science.nasa.gov/missions/xrism/xrism-sees-pulsar-gathering-companions-wind/"
+            }
+          },
+          {
+            "text": "The companion star completely absorbing the pulsar's electromagnetic beams, which gradually cools the entire binary system.",
+            "correct": false,
+            "explanation": "The companion star does not absorb the pulsar's beams to cool the system; instead, the pulsar captures the companion's wind, which heats up and releases energy as X-rays."
+          },
+          {
+            "text": "The immediate collision and merger of the two stars to form a supermassive black hole.",
+            "correct": false,
+            "explanation": "The observation caught the steady accretion of stellar wind in a binary system, not a sudden merger event or the creation of a supermassive black hole."
+          },
+          {
+            "text": "A total cessation of all stellar wind emissions from the massive giant star due to the pulsar's magnetic field.",
+            "correct": false,
+            "explanation": "The giant star continues to emit a powerful stellar wind; the pulsar's gravity captures this wind rather than halting its emission."
+          }
+        ]
+      },
+      {
+        "question": "During the assembly of the Compton Spectrometer and Imager (COSI) telescope, what is the function of the silver covers on top of the detector box?",
+        "choices": [
+          {
+            "text": "To protect the delicate flex circuits that transmit sensitive electrical signals from the detectors to the readout electronics.",
+            "correct": true,
+            "explanation": "The silver covers protect the fragile flex circuits, which carry the weak electrical signals from gamma-ray scattering to the readout electronics, shielding them from physical damage and interference.",
+            "source": {
+              "label": "COSI Telescope Comes Together",
+              "url": "https://www.nasa.gov/image-article/cosi-telescope-comes-together/"
+            }
+          },
+          {
+            "text": "To act as reflective glass mirrors that focus incoming gamma-ray photons onto a central sensor.",
+            "correct": false,
+            "explanation": "Gamma-rays have too much energy to be focused or reflected by mirrors; instead, COSI relies on measuring Compton scattering directly in the detector crystals."
+          },
+          {
+            "text": "To serve as thermal radiators that cool the instrument's interior to absolute zero.",
+            "correct": false,
+            "explanation": "The silver covers are designed to physically protect the flex circuits and wiring during assembly, not to act as radiators to reach absolute zero."
+          },
+          {
+            "text": "To seal the detector box airtight to prevent all gamma-rays from entering.",
+            "correct": false,
+            "explanation": "Sealing the detector box to block gamma-rays would prevent the telescope from functioning, as its primary purpose is to detect those very gamma-rays."
+          }
+        ]
+      },
+      {
+        "question": "How will NASA deploy the StarBurst gamma-ray detector mission into space?",
+        "choices": [
+          {
+            "text": "Aboard a SpaceX Falcon 9 rocket as a rideshare payload on a Bandwagon mission.",
+            "correct": true,
+            "explanation": "NASA has contracted SpaceX to launch StarBurst as a rideshare payload on a Falcon 9 rocket as part of a Bandwagon mission from Cape Canaveral.",
+            "source": {
+              "label": "NASA Awards Launch Services for StarBurst Gamma-Ray Detector",
+              "url": "https://www.nasa.gov/news-release/nasa-awards-launch-services-for-starburst-gamma-ray-detector/"
+            }
+          },
+          {
+            "text": "On a dedicated SLS (Space Launch System) rocket launched from the Kennedy Space Center.",
+            "correct": false,
+            "explanation": "StarBurst will launch as a rideshare payload on a SpaceX Falcon 9 rocket, not on a dedicated SLS rocket."
+          },
+          {
+            "text": "Via a high-altitude research balloon launched from an observation station in Antarctica.",
+            "correct": false,
+            "explanation": "The StarBurst instrument is a satellite designed to be launched into space by a rocket, not a suborbital balloon mission in Antarctica."
+          },
+          {
+            "text": "As the primary payload on a Japanese H3 rocket launched from Tanegashima Space Center.",
+            "correct": false,
+            "explanation": "The StarBurst launch services were awarded to SpaceX for a Falcon 9 launch, not a Japanese H3 rocket."
+          }
+        ]
+      }
+    ]
+  },
+  {
     "title": "Testing the Limits: The Persistent Mysteries of Gravity and Quantum Entanglement",
     "publishedAt": "2026-09-20",
     "description": "Test your knowledge on the challenges of measuring the universal gravitational constant and the resilience of quantum entanglement in extreme environments.",
