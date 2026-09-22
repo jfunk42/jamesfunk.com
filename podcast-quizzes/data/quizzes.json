@@ -1,5 +1,105 @@
 [
   {
+    "title": "The Dual Brain: Mapping, Mending, and Merging the Mind",
+    "publishedAt": "2026-09-22",
+    "description": "Test your knowledge on the revolutionary neuroscientific breakthroughs of September 2026, ranging from brain development to advanced neural implants and recovery therapies.",
+    "tags": [
+      "neuroscience",
+      "brain research",
+      "biomedical engineering",
+      "cognitive health"
+    ],
+    "questions": [
+      {
+        "question": "According to the Stanford University study, how does the evolutionary discovery of the brain's dual cellular systems assist in the study of neurodegenerative diseases?",
+        "choices": [
+          {
+            "text": "It enables scientists to grow human hindbrain neurons in the laboratory, providing a model to study diseases like ALS.",
+            "correct": true,
+            "explanation": "Identifying the distinct cellular system that gives rise to the hindbrain allowed the Stanford team to successfully grow human hindbrain neurons in the laboratory. This provides a reliable model for studying conditions like Amyotrophic Lateral Sclerosis (ALS) and spinal muscular atrophy.",
+            "source": {
+              "label": "Stanford scientists discover the human brain may actually be two separate organs",
+              "url": "https://www.sciencedaily.com/releases/2026/09/260920222352.htm"
+            }
+          },
+          {
+            "text": "It allows doctors to bypass the hindbrain completely and treat motor diseases using only forebrain pathways.",
+            "correct": false,
+            "explanation": "The study does not claim that motor diseases can be treated by bypassing the hindbrain or relying solely on the forebrain; instead, it highlights the breakthrough of being able to model and study the hindbrain neurons directly."
+          },
+          {
+            "text": "It proves that ALS is caused by a failure of the forebrain to merge with the hindbrain during fetal development.",
+            "correct": false,
+            "explanation": "The research does not suggest that ALS is caused by a developmental failure of these two systems to merge. Rather, the discovery provides a method to grow and study the specific hindbrain cells that ALS destroys."
+          },
+          {
+            "text": "It demonstrates that the blood-brain barrier is entirely absent in the evolutionary precursor to the hindbrain.",
+            "correct": false,
+            "explanation": "The study on evolutionary fusion does not discuss the absence of the blood-brain barrier in evolutionary precursors. The blood-brain barrier's restoration is discussed in the context of stem cell therapy for stroke damage."
+          }
+        ]
+      },
+      {
+        "question": "What three simultaneous functions can be performed by the newly developed needle-thin brain implant?",
+        "choices": [
+          {
+            "text": "Recording neural activity, delivering precise micro-doses of drugs, and stimulating brain regions with electrical pulses.",
+            "correct": true,
+            "explanation": "The newly engineered flexible fiber is a multi-tasking marvel designed to record real-time neural activity, deliver precise micro-doses of therapeutic drugs, and stimulate distinct brain regions simultaneously.",
+            "source": {
+              "label": "Scientists create a needle-thin brain implant that can do three jobs at once",
+              "url": "https://www.sciencedaily.com/releases/2026/09/260920222416.htm"
+            }
+          },
+          {
+            "text": "Regenerating dead neurons, sealing the blood-brain barrier, and mapping evolutionary pathways.",
+            "correct": false,
+            "explanation": "Regenerating neurons and sealing the blood-brain barrier are outcomes associated with the stem cell transplant therapy used for stroke recovery, not the needle-thin implant."
+          },
+          {
+            "text": "Sensing dopamine levels, producing synthetic dopamine, and destroying blood clots.",
+            "correct": false,
+            "explanation": "The needle-thin implant is designed for electrical recording, fluid delivery, and electrical stimulation. It does not produce synthetic dopamine or destroy blood clots."
+          },
+          {
+            "text": "Imaging deep-brain blood vessels, measuring skull pressure, and filtering out toxins.",
+            "correct": false,
+            "explanation": "The implant's three functions are recording neural signals, administering drugs, and electrical stimulation. It is not designed to image blood vessels, measure skull pressure, or filter toxins."
+          }
+        ]
+      },
+      {
+        "question": "According to recent brain scan research, what is the suspected biological cause underlying the chronic fatigue and brain fog reported by long COVID patients?",
+        "choices": [
+          {
+            "text": "Damage to dopamine-releasing neurons, which regulate energy, motivation, and working memory.",
+            "correct": true,
+            "explanation": "Advanced brain scans revealed that long COVID fatigue and brain fog are linked to damage in dopamine-releasing neurons, which are crucial for regulating physical energy, motivation, movement, and short-term working memory.",
+            "source": {
+              "label": "Brain scans reveal a possible cause of long COVID fatigue and brain fog",
+              "url": "https://www.sciencedaily.com/releases/2026/09/260920222412.htm"
+            }
+          },
+          {
+            "text": "A physical tear in the blood-brain barrier that allows respiratory viruses to flood the hindbrain.",
+            "correct": false,
+            "explanation": "While blood-brain barrier damage is discussed as a consequence of strokes, the long COVID study specifically attributes cognitive and fatigue symptoms to the damage of dopamine-releasing neurons, not a viral flooding of the hindbrain."
+          },
+          {
+            "text": "An evolutionary separation of the forebrain and hindbrain, reverting the brain back to two organs.",
+            "correct": false,
+            "explanation": "The dual-system architecture of the brain is an ancient evolutionary trait shared by humans, not a pathological separation or reversion caused by long COVID."
+          },
+          {
+            "text": "A complete block in the flow of oxygen to the cerebral cortex, mimicking a localized stroke.",
+            "correct": false,
+            "explanation": "The study on long COVID relates its symptoms to damage in dopamine-releasing neurons, whereas a block in blood and oxygen flow resulting in dead tissue is the mechanism of a stroke."
+          }
+        ]
+      }
+    ]
+  },
+  {
     "title": "High-Energy Windows to the Violent Universe",
     "publishedAt": "2026-09-21",
     "description": "Challenge your understanding of the high-energy cosmos with this quiz on the XRISM, COSI, and StarBurst space missions.",
