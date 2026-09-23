@@ -1,5 +1,105 @@
 [
   {
+    "title": "The Tilted Planet: From Deep Space Perspective to Desert Blooms",
+    "publishedAt": "2026-09-23",
+    "description": "Test your knowledge on how Earth's axial tilt shapes our seasons, astronomical history, and the vibrant ecology of desert blooms.",
+    "tags": [
+      "axial tilt",
+      "seasons",
+      "equinox",
+      "desert blooms"
+    ],
+    "questions": [
+      {
+        "question": "How do Earth's continents appear to shift in deep-space imagery as the planet transitions from the northern hemisphere's summer to its winter?",
+        "choices": [
+          {
+            "text": "They appear to slide upward, shifting South America, Africa, and Australia into the center of the frame.",
+            "correct": true,
+            "explanation": "As the Earth moves in its orbit and the Southern Hemisphere tilts toward the Sun (and the camera), the southern continents visually slide upward into the center of the deep-space frame.",
+            "source": {
+              "label": "An Epic View of the Seasons",
+              "url": "https://science.nasa.gov/earth/earth-observatory/an-epic-view-of-the-seasons/"
+            }
+          },
+          {
+            "text": "They appear to slide downward, moving North America, Europe, and Asia into the center of the frame.",
+            "correct": false,
+            "explanation": "The downward shift of the northern landmasses into the center of the frame occurs during the northern hemisphere's summer, not its winter."
+          },
+          {
+            "text": "They rotate clockwise around the geographic equator due to a change in the Earth's rotational speed.",
+            "correct": false,
+            "explanation": "The apparent movement is a translational shifting up and down due to orbital tilt, not a clockwise rotational shift caused by changes in rotational speed."
+          },
+          {
+            "text": "They appear to expand and cover a larger surface area of the frame due to the Earth's elliptical orbit bringing it closer to the camera.",
+            "correct": false,
+            "explanation": "While the Earth's orbit is elliptical, the apparent shift of the continents is due to the axial tilt tilting different hemispheres toward the camera, not continents physically expanding in the frame."
+          }
+        ]
+      },
+      {
+        "question": "Why did ancient astronomers track the sunrise and sunset specifically on the day of an equinox to establish a reliable calendar benchmark?",
+        "choices": [
+          {
+            "text": "Because the Sun reaches its highest zenith in the sky, remaining stationary for several hours.",
+            "correct": false,
+            "explanation": "The Sun reaching its highest path and longest duration occurs during the summer solstice, not the equinox, and the Sun never remains stationary."
+          },
+          {
+            "text": "Because the Sun rises precisely due east and sets precisely due west only on these specific days.",
+            "correct": true,
+            "explanation": "On the days of the equinoxes, the Sun rises exactly due east and sets exactly due west, providing a highly reliable and unique astronomical alignment.",
+            "source": {
+              "label": "Embracing the Equinox",
+              "url": "https://science.nasa.gov/solar-system/skywatching/night-sky-network/embracing-the-equinox/"
+            }
+          },
+          {
+            "text": "Because the day-night terminator line curves drastically, allowing shadows to align perfectly with North-South markers.",
+            "correct": false,
+            "explanation": "During an equinox, the terminator line is not curved; instead, it runs straight from the North Pole to the South Pole."
+          },
+          {
+            "text": "Because the Earth's tilt completely resets to zero degrees, causing the Sun to hover perfectly over the Prime Meridian.",
+            "correct": false,
+            "explanation": "The Earth's axial tilt does not change or reset to zero degrees; rather, the tilt is aligned sideways relative to the Sun, which sits directly above the equator, not the Prime Meridian."
+          }
+        ]
+      },
+      {
+        "question": "How do the dormant seeds of Western Australian wildflowers prevent premature germination during brief, insufficient rain showers?",
+        "choices": [
+          {
+            "text": "They rely on physical movement from high winds to crack open their hard protective shells before absorbing moisture.",
+            "correct": false,
+            "explanation": "While they have protective shells, wind erosion is not the trigger; they specifically require water to dissolve internal chemical barriers."
+          },
+          {
+            "text": "They actively draw moisture from deep underground water tables using temporary, micro-sized taproots.",
+            "correct": false,
+            "explanation": "Dormant seeds do not possess active root systems; they must remain dormant in the topsoil until surface water triggers germination."
+          },
+          {
+            "text": "They use chemical inhibitors in their seed coats that must be completely washed away by a sustained volume of water.",
+            "correct": true,
+            "explanation": "The seeds possess chemical inhibitors that act as rain gauges, requiring a substantial and sustained volume of water to wash them away and signal that it is safe to germinate.",
+            "source": {
+              "label": "Boom Year for Desert Blooms",
+              "url": "https://science.nasa.gov/earth/earth-observatory/boom-year-for-desert-blooms/"
+            }
+          },
+          {
+            "text": "They remain buried so deep within the iron-rich soil that only seasonal floods can reach them.",
+            "correct": false,
+            "explanation": "The seeds are not buried too deep for normal rain; they are located near the surface but rely on chemical mechanisms to prevent sprouting during minor rain events."
+          }
+        ]
+      }
+    ]
+  },
+  {
     "title": "The Dual Brain: Mapping, Mending, and Merging the Mind",
     "publishedAt": "2026-09-22",
     "description": "Test your knowledge on the revolutionary neuroscientific breakthroughs of September 2026, ranging from brain development to advanced neural implants and recovery therapies.",
