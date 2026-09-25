@@ -1,5 +1,104 @@
 [
   {
+    "title": "Laying the Groundwork for Deep Space: Landing Tech, Physiology, and Nutrition for Future Explorers",
+    "publishedAt": "2026-09-25",
+    "description": "Test your knowledge on the latest advancements in space landing technology, astronaut health research, and deep space food systems.",
+    "tags": [
+      "space exploration",
+      "human health",
+      "aerospace technology"
+    ],
+    "questions": [
+      {
+        "question": "On August 27, 2026, researchers tested the SPLICE landing system near NASA\u2019s Armstrong Flight Research Center using which type of vehicle?",
+        "choices": [
+          {
+            "text": "An Alta-X heavy-lift drone",
+            "correct": true,
+            "explanation": "The SPLICE guidance and navigation system was tested by mounting it on an Alta-X heavy-lift drone to fly simulated lunar descent profiles.",
+            "source": {
+              "label": "Practicing for Safe Landings on the Moon and Beyond",
+              "url": "https://www.nasa.gov/image-article/practicing-for-safe-landings-on-the-moon-and-beyond/"
+            }
+          },
+          {
+            "text": "An F-15 fighter jet",
+            "correct": false,
+            "explanation": "While fighter jets are sometimes used in aeronautics research, the August 27, 2026 test specifically utilized a heavy-lift Alta-X drone."
+          },
+          {
+            "text": "A high-altitude weather balloon",
+            "correct": false,
+            "explanation": "Weather balloons can reach high altitudes but cannot actively fly the precise, controlled descent profiles required to simulate a lunar landing."
+          },
+          {
+            "text": "A full-scale rocket prototype",
+            "correct": false,
+            "explanation": "No rocket prototype was used for this flight; instead, the researchers used a heavy-lift drone to carry the SPLICE payload."
+          }
+        ]
+      },
+      {
+        "question": "During the SpaceX Crew-13 mission, what biological phenomena are astronauts actively studying in themselves to protect the health of future deep-space travelers?",
+        "choices": [
+          {
+            "text": "Upward fluid shifts and their effects on blood flow, clotting risks, and vision changes",
+            "correct": true,
+            "explanation": "Crew-13 astronauts are investigating how fluid shifts in microgravity alter blood flow, increase clotting risks, and elevate intracranial pressure, which causes vision changes.",
+            "source": {
+              "label": "NASA to Study Human Health, Performance During Crew-13 Mission",
+              "url": "https://www.nasa.gov/humans-in-space/nasa-to-study-human-health-performance-during-crew-13-mission/"
+            }
+          },
+          {
+            "text": "Accelerated bone density growth caused by cosmic radiation exposure",
+            "correct": false,
+            "explanation": "Spaceflight causes bone loss (a decrease in density), not growth, and cosmic radiation is not studied as a mechanism to grow bone density."
+          },
+          {
+            "text": "The modification of gut bacteria to self-synthesize Vitamin C",
+            "correct": false,
+            "explanation": "While nutrition is a concern, genetically modifying human gut bacteria to produce vitamins is not a focus of the Crew-13 biomedical studies."
+          },
+          {
+            "text": "Complete cardiovascular adaptation to Earth-like gravity within 24 hours of orbit",
+            "correct": false,
+            "explanation": "Astronauts do not adapt to Earth-like gravity while in orbit; rather, their bodies undergo continuous adaptations to microgravity."
+          }
+        ]
+      },
+      {
+        "question": "Who was awarded the $300,000 top prize in the Deep Space Food Challenge for designing the 'Adaptive Nourishment Infrastructure' (ANI)?",
+        "choices": [
+          {
+            "text": "Chinyere Ukeje of Philadelphia, Pennsylvania",
+            "correct": true,
+            "explanation": "Chinyere Ukeje won the grand prize for the Adaptive Nourishment Infrastructure (ANI), which is designed to address deep space nutritional needs.",
+            "source": {
+              "label": "NASA Unveils Winning Designs for Mars Space Food Systems Challenge",
+              "url": "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/centennial-challenges/nasa-unveils-winning-designs-for-mars-space-food-systems-challenge/"
+            }
+          },
+          {
+            "text": "Kayla Barron",
+            "correct": false,
+            "explanation": "Kayla Barron is a NASA astronaut assigned as the spacecraft commander for the upcoming SpaceX Crew-14 mission, not the designer of the food system."
+          },
+          {
+            "text": "Chris Birch",
+            "correct": false,
+            "explanation": "Chris Birch is a NASA astronaut assigned as the pilot for SpaceX Crew-14, not the winner of the Deep Space Food Challenge."
+          },
+          {
+            "text": "Makoto Suwa",
+            "correct": false,
+            "explanation": "Makoto Suwa is a JAXA astronaut assigned to Crew-14, not the food system innovator."
+          }
+        ]
+      }
+    ]
+  },
+  {
     "title": "The Tilted Planet: From Deep Space Perspective to Desert Blooms",
     "publishedAt": "2026-09-23",
     "description": "Test your knowledge on how Earth's axial tilt shapes our seasons, astronomical history, and the vibrant ecology of desert blooms.",
