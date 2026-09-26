@@ -1,5 +1,105 @@
 [
   {
+    "title": "Redefining the Spectrum: How Changing Diagnostics and Hidden Genetics Shape Our Understanding of Neurodiversity",
+    "publishedAt": "2026-09-26",
+    "description": "Test your knowledge on the shifting landscapes of ADHD and autism diagnostics and the hidden prevalence of genetic disorders like Phelan-McDermid syndrome.",
+    "tags": [
+      "neurodiversity",
+      "genetics",
+      "autism",
+      "ADHD"
+    ],
+    "questions": [
+      {
+        "question": "What did the massive Danish epidemiological study discover about children diagnosed with ADHD or autism today compared to those diagnosed a decade ago?",
+        "choices": [
+          {
+            "text": "They more closely resemble their peers in the general, undiagnosed population than those diagnosed ten years ago.",
+            "correct": true,
+            "explanation": "The study revealed that because the diagnostic net has been cast wider, it now captures children with milder, more subtle traits that are much closer to the average human baseline than the distinct, extreme cases diagnosed a decade ago.",
+            "source": {
+              "label": "ADHD and autism diagnoses have surged. A massive study may help explain why",
+              "url": "https://www.sciencedaily.com/releases/2026/09/260924020353.htm"
+            }
+          },
+          {
+            "text": "They exhibit significantly more severe and highly visible behavioral presentations.",
+            "correct": false,
+            "explanation": "This is incorrect because the study found the opposite: children diagnosed today have milder, more moderate presentations that are closer to the general population, whereas severe presentations characterized the narrower diagnostic criteria of the past."
+          },
+          {
+            "text": "They are primarily diagnosed using objective physical biomarkers and blood tests rather than behavioral observations.",
+            "correct": false,
+            "explanation": "This is incorrect because the podcast notes that unlike conditions like diabetes, ADHD and autism are still diagnosed based on behavioral observations and clinical criteria, not physical biomarkers or blood tests."
+          },
+          {
+            "text": "They are almost entirely diagnosed due to a proven, rapid increase in underlying biological and environmental triggers.",
+            "correct": false,
+            "explanation": "This is incorrect because the study strongly suggests the surge is driven in large part by changing diagnostic patterns and broader clinical identification, rather than a proven biological or environmental increase."
+          }
+        ]
+      },
+      {
+        "question": "Why do thousands of cases of Phelan-McDermid syndrome currently remain hidden and undiagnosed in the population?",
+        "choices": [
+          {
+            "text": "Genetic testing is frequently omitted once a child receives a broad, behavioral diagnosis of autism.",
+            "correct": true,
+            "explanation": "Many clinicians stop diagnostic investigations after a behavioral autism diagnosis is made to focus on immediate behavioral therapies, leaving the underlying genetic cause\u2014such as Phelan-McDermid syndrome\u2014unidentified due to a lack of genetic testing.",
+            "source": {
+              "label": "This \u201crare\u201d autism-linked genetic disorder may be far more common than scientists thought",
+              "url": "https://www.sciencedaily.com/releases/2026/09/260924020405.htm"
+            }
+          },
+          {
+            "text": "The syndrome is incredibly rare, affecting fewer than 100 people across the entire United States.",
+            "correct": false,
+            "explanation": "This is incorrect because the analysis shows Phelan-McDermid syndrome may affect about 1 in 7,300 people, which equates to more than 45,000 Americans."
+          },
+          {
+            "text": "Targeted molecular treatments are unavailable for clinical trials, making genetic identification clinically useless.",
+            "correct": false,
+            "explanation": "This is incorrect because targeted treatments for Phelan-McDermid syndrome are actively moving into clinical trials, which makes identifying these individuals critical so they can participate in trials and access future therapies."
+          },
+          {
+            "text": "Individuals with this genetic disorder do not exhibit any observable developmental delays or speech difficulties.",
+            "correct": false,
+            "explanation": "This is incorrect because individuals with Phelan-McDermid syndrome often exhibit significant developmental delays, speech difficulties, and sensory processing differences that match autism criteria."
+          }
+        ]
+      },
+      {
+        "question": "How have shifting diagnostic thresholds affected the clinical categorization of neurodevelopmental traits on the human behavioral bell curve?",
+        "choices": [
+          {
+            "text": "Clinicians have set the diagnostic threshold closer to the average middle of the bell curve, capturing more moderate variations.",
+            "correct": true,
+            "explanation": "By shifting the diagnostic threshold closer to the middle of the bell curve, clinicians are now identifying individuals with more moderate, subtle presentations of ADHD and autism who previously would have gone undiagnosed.",
+            "source": {
+              "label": "ADHD and autism diagnoses have surged. A massive study may help explain why",
+              "url": "https://www.sciencedaily.com/releases/2026/09/260924020353.htm"
+            }
+          },
+          {
+            "text": "Clinicians have pushed diagnostic thresholds further out to the extreme edges of the behavioral bell curve.",
+            "correct": false,
+            "explanation": "This is incorrect because pushing thresholds further to the extreme ends would narrow the criteria and result in fewer, more severely affected individuals being diagnosed, which contradicts the modern trend of broader, more inclusive criteria."
+          },
+          {
+            "text": "The shifting thresholds have successfully replaced behavioral evaluations with mandatory genetic sequencing for ADHD.",
+            "correct": false,
+            "explanation": "This is incorrect because the shifting thresholds discussed in the Danish study refer to behavioral criteria. Routine genetic testing is advocated as a future standard for the autism spectrum but has not replaced behavioral evaluations for ADHD."
+          },
+          {
+            "text": "The thresholds have been restricted to only classify individuals with severe verbal communication challenges as having ADHD.",
+            "correct": false,
+            "explanation": "This is incorrect because severe verbal communication challenges are historically associated with narrow criteria for autism, not ADHD, and the modern trend is toward expanding rather than restricting thresholds."
+          }
+        ]
+      }
+    ]
+  },
+  {
     "title": "Laying the Groundwork for Deep Space: Landing Tech, Physiology, and Nutrition for Future Explorers",
     "publishedAt": "2026-09-25",
     "description": "Test your knowledge on the latest advancements in space landing technology, astronaut health research, and deep space food systems.",
