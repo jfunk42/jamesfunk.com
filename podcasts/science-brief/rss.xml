@@ -44,6 +44,7 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
       <itunes:duration>20:54</itunes:duration>
+      <itunes:image href="https://pub-a5157700a8ce49f8bdadd76b57425ba7.r2.dev/jfunk42-science-brief/artwork/2026-09-26-09-cover.png"/>
     </item>
 
     <item>
@@ -58,6 +59,7 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
       <itunes:duration>21:48</itunes:duration>
+      <itunes:image href="https://pub-a5157700a8ce49f8bdadd76b57425ba7.r2.dev/jfunk42-science-brief/artwork/2026-09-25-09-cover.png"/>
     </item>
 
     <item>
@@ -72,6 +74,7 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
       <itunes:duration>19:48</itunes:duration>
+      <itunes:image href="https://pub-a5157700a8ce49f8bdadd76b57425ba7.r2.dev/jfunk42-science-brief/artwork/2026-09-23-09-cover.png"/>
     </item>
 
     <item>
@@ -86,6 +89,7 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
       <itunes:duration>20:32</itunes:duration>
+      <itunes:image href="https://pub-a5157700a8ce49f8bdadd76b57425ba7.r2.dev/jfunk42-science-brief/artwork/2026-09-22-13-cover.png"/>
     </item>
   </channel>
 </rss>

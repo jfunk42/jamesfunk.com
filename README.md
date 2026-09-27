@@ -36,6 +36,10 @@ Keep the item GUID and enclosure URL immutable after publication. The show artwo
 `podcasts/science-brief/cover.png` must remain square and meet podcast-directory artwork
 requirements.
 
+Quiz records may include an optional `spotifyUrl` with a canonical
+`https://open.spotify.com/episode/...` URL. When present, the corresponding quiz displays a
+direct Spotify episode link.
+
 ## Publish
 
 1. Push this folder to the `jamesfunk.com` repository on GitHub.

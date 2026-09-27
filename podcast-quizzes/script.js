@@ -9,6 +9,7 @@ const elements = {
   quizTitle: document.querySelector("#quiz-title"),
   quizDate: document.querySelector("#quiz-date"),
   quizDescription: document.querySelector("#quiz-description"),
+  spotifyEpisode: document.querySelector("#spotify-episode"),
   questions: document.querySelector("#questions"),
   searchInput: document.querySelector("#quiz-search"),
   searchCount: document.querySelector("#search-count"),
@@ -147,6 +148,10 @@ function renderSelectedQuiz() {
   elements.quizTitle.textContent = quiz.title;
   elements.quizDate.textContent = formatPublishedDate(quiz.publishedAt);
   elements.quizDescription.textContent = quiz.description;
+  const spotifyLink = elements.spotifyEpisode.querySelector("a");
+  const hasSpotifyEpisode = typeof quiz.spotifyUrl === "string";
+  elements.spotifyEpisode.hidden = !hasSpotifyEpisode;
+  spotifyLink.href = hasSpotifyEpisode ? quiz.spotifyUrl : "";
   renderQuestions(quiz);
 }
 
@@ -169,6 +174,10 @@ function isValidQuiz(quiz) {
     && typeof quiz.title === "string"
     && /^\d{4}-\d{2}-\d{2}$/.test(quiz.publishedAt)
     && typeof quiz.description === "string"
+    && (quiz.spotifyUrl === undefined || (
+      typeof quiz.spotifyUrl === "string"
+      && /^https:\/\/open\.spotify\.com\/episode\/[A-Za-z0-9]+(?:\?.*)?$/.test(quiz.spotifyUrl)
+    ))
     && Array.isArray(quiz.tags)
     && Array.isArray(quiz.questions)
     && quiz.questions.length > 0
