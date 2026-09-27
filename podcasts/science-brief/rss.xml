@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>jFunk42 Science Brief</title>
+    <link>https://jamesfunk.com/podcasts/science-brief/</link>
+    <atom:link href="https://jamesfunk.com/podcasts/science-brief/rss.xml" rel="self" type="application/rss+xml"/>
+    <description>Short, source-backed briefings on new discoveries in science, space, health, and technology.</description>
+    <language>en-us</language>
+    <copyright>Copyright 2026 James Funk</copyright>
+    <lastBuildDate>Sat, 26 Sep 2026 09:00:00 +0000</lastBuildDate>
+    <managingEditor>james.c.funk@gmail.com (James Funk)</managingEditor>
+    <webMaster>james.c.funk@gmail.com (James Funk)</webMaster>
+    <itunes:title>jFunk42 Science Brief</itunes:title>
+    <itunes:author>James Funk</itunes:author>
+    <itunes:summary>Short, source-backed briefings on new discoveries in science, space, health, and technology.</itunes:summary>
+    <itunes:type>episodic</itunes:type>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:category text="Science">
+      <itunes:category text="Natural Sciences"/>
+    </itunes:category>
+    <itunes:owner>
+      <itunes:name>James Funk</itunes:name>
+      <itunes:email>james.c.funk@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:image href="https://jamesfunk.com/podcasts/science-brief/cover.png"/>
+    <image>
+      <url>https://jamesfunk.com/podcasts/science-brief/cover.png</url>
+      <title>jFunk42 Science Brief</title>
+      <link>https://jamesfunk.com/podcasts/science-brief/</link>
+    </image>
+
+    <item>
+      <title>Redefining the Spectrum: How Changing Diagnostics and Hidden Genetics Shape Our Understanding of Neurodiversity</title>
+      <description><![CDATA[An AI-generated, source-backed briefing on diagnostic expansion, genetic underdiagnosis, and targeted therapeutics. Read the original reporting linked in the episode quiz.]]></description>
+      <content:encoded><![CDATA[<p>An AI-generated synthesis of recent science reporting on diagnostic expansion, epidemiological cohort comparison, genetic underdiagnosis, and targeted therapeutics.</p><p><a href="https://jamesfunk.com/podcast-quizzes/#Redefining%20the%20Spectrum%3A%20How%20Changing%20Diagnostics%20and%20Hidden%20Genetics%20Shape%20Our%20Understanding%20of%20Neurodiversity">Read the sources and take the episode quiz.</a></p>]]></content:encoded>
+      <link>https://jamesfunk.com/podcast-quizzes/#Redefining%20the%20Spectrum%3A%20How%20Changing%20Diagnostics%20and%20Hidden%20Genetics%20Shape%20Our%20Understanding%20of%20Neurodiversity</link>
+      <guid isPermaLink="false">jfunk42-science-brief-2026-09-26-09</guid>
+      <pubDate>Sat, 26 Sep 2026 09:00:00 +0000</pubDate>
+      <enclosure url="https://pub-a5157700a8ce49f8bdadd76b57425ba7.r2.dev/jfunk42-science-brief/episodes/2026-09-26-09.mp3" length="11971989" type="audio/mpeg"/>
+      <itunes:title>Redefining the Spectrum: How Changing Diagnostics and Hidden Genetics Shape Our Understanding of Neurodiversity</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:duration>20:54</itunes:duration>
+    </item>
+
+    <item>
+      <title>Laying the Groundwork for Deep Space: Landing Tech, Physiology, and Nutrition for Future Explorers</title>
+      <description><![CDATA[An AI-generated, source-backed briefing on the technologies and science preparing people for deep-space exploration.]]></description>
+      <content:encoded><![CDATA[<p>An AI-generated synthesis of recent reporting on autonomous landing systems, microgravity physiology, and deep-space nutrition.</p><p><a href="https://jamesfunk.com/podcast-quizzes/#Laying%20the%20Groundwork%20for%20Deep%20Space%3A%20Landing%20Tech%2C%20Physiology%2C%20and%20Nutrition%20for%20Future%20Explorers">Read the sources and take the episode quiz.</a></p>]]></content:encoded>
+      <link>https://jamesfunk.com/podcast-quizzes/#Laying%20the%20Groundwork%20for%20Deep%20Space%3A%20Landing%20Tech%2C%20Physiology%2C%20and%20Nutrition%20for%20Future%20Explorers</link>
+      <guid isPermaLink="false">jfunk42-science-brief-2026-09-25-09</guid>
+      <pubDate>Fri, 25 Sep 2026 09:00:00 +0000</pubDate>
+      <enclosure url="https://pub-a5157700a8ce49f8bdadd76b57425ba7.r2.dev/jfunk42-science-brief/episodes/2026-09-25-09.mp3" length="12481221" type="audio/mpeg"/>
+      <itunes:title>Laying the Groundwork for Deep Space: Landing Tech, Physiology, and Nutrition for Future Explorers</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:duration>21:48</itunes:duration>
+    </item>
+
+    <item>
+      <title>The Tilted Planet: From Deep Space Perspective to Desert Blooms</title>
+      <description><![CDATA[An AI-generated, source-backed briefing on axial tilt, equinox mechanics, and desert blooms.]]></description>
+      <content:encoded><![CDATA[<p>An AI-generated synthesis of recent science reporting on axial tilt, equinox mechanics, ancient observatories, and desert-bloom ecology.</p><p><a href="https://jamesfunk.com/podcast-quizzes/#The%20Tilted%20Planet%3A%20From%20Deep%20Space%20Perspective%20to%20Desert%20Blooms">Read the sources and take the episode quiz.</a></p>]]></content:encoded>
+      <link>https://jamesfunk.com/podcast-quizzes/#The%20Tilted%20Planet%3A%20From%20Deep%20Space%20Perspective%20to%20Desert%20Blooms</link>
+      <guid isPermaLink="false">jfunk42-science-brief-2026-09-23-09</guid>
+      <pubDate>Wed, 23 Sep 2026 09:00:00 +0000</pubDate>
+      <enclosure url="https://pub-a5157700a8ce49f8bdadd76b57425ba7.r2.dev/jfunk42-science-brief/episodes/2026-09-23-09.mp3" length="10963629" type="audio/mpeg"/>
+      <itunes:title>The Tilted Planet: From Deep Space Perspective to Desert Blooms</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:duration>19:48</itunes:duration>
+    </item>
+
+    <item>
+      <title>The Dual Brain: Mapping, Mending, and Merging the Mind</title>
+      <description><![CDATA[An AI-generated, source-backed briefing on brain evolution, neural implants, stem-cell therapy, and long COVID.]]></description>
+      <content:encoded><![CDATA[<p>An AI-generated synthesis of recent science reporting on brain evolution, multifunctional neural implants, stem-cell therapy, and long COVID.</p><p><a href="https://jamesfunk.com/podcast-quizzes/#The%20Dual%20Brain%3A%20Mapping%2C%20Mending%2C%20and%20Merging%20the%20Mind">Read the sources and take the episode quiz.</a></p>]]></content:encoded>
+      <link>https://jamesfunk.com/podcast-quizzes/#The%20Dual%20Brain%3A%20Mapping%2C%20Mending%2C%20and%20Merging%20the%20Mind</link>
+      <guid isPermaLink="false">jfunk42-science-brief-2026-09-22-13</guid>
+      <pubDate>Tue, 22 Sep 2026 13:00:00 +0000</pubDate>
+      <enclosure url="https://pub-a5157700a8ce49f8bdadd76b57425ba7.r2.dev/jfunk42-science-brief/episodes/2026-09-22-13.mp3" length="11660541" type="audio/mpeg"/>
+      <itunes:title>The Dual Brain: Mapping, Mending, and Merging the Mind</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:duration>20:32</itunes:duration>
+    </item>
+  </channel>
+</rss>
