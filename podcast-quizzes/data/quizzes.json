@@ -1,5 +1,104 @@
 [
   {
+    "title": "Decoding Earth's Ancient Oxygen and the Rise of Complex Life",
+    "publishedAt": "2026-09-28",
+    "description": "This episode explores how ancient Australian fossils and a re-examined two-billion-year-old chemical signature reshape our understanding of oxygen's role in the rise of early complex life on Earth.",
+    "tags": [
+      "paleontology",
+      "geochemistry",
+      "evolution"
+    ],
+    "questions": [
+      {
+        "question": "What did researchers discover when analyzing the distribution of 1.7-billion-year-old eukaryotic fossils from ancient Australian rocks?",
+        "choices": [
+          {
+            "text": "Eukaryotes were only found in geological settings where oxygen was present, and were completely absent from oxygen-free zones.",
+            "correct": true,
+            "explanation": "The study of over 12,000 fossils across various environments showed a strict ecological divide where eukaryotes only inhabited oxygenated zones, while anoxic zones contained only simpler microbes.",
+            "source": {
+              "label": "1.7-billion-year-old fossils reveal a crucial clue to the rise of complex life",
+              "url": "https://www.sciencedaily.com/releases/2026/09/260925005447.htm"
+            }
+          },
+          {
+            "text": "Eukaryotes were found in equal abundance across both oxygenated and oxygen-free zones, proving oxygen was not a survival requirement.",
+            "correct": false,
+            "explanation": "This is incorrect because the research demonstrated a complete absence of eukaryotes in the examined oxygen-free (anoxic) zones."
+          },
+          {
+            "text": "Eukaryotes were only preserved in shallow mudflats, indicating they could not physically survive in the open ocean.",
+            "correct": false,
+            "explanation": "This is incorrect because the fossils were found in diverse environments spanning from shallow coastal mudflats all the way to the deep, open sea, provided oxygen was present."
+          },
+          {
+            "text": "Simpler single-celled microbes were entirely absent from all of the environments where eukaryotic fossils were discovered.",
+            "correct": false,
+            "explanation": "This is incorrect because simpler microbes were found in the oxygen-free zones, and the study does not suggest they were absent from oxygenated zones; rather, the key divide was the exclusion of eukaryotes from anoxic areas."
+          }
+        ]
+      },
+      {
+        "question": "What alternative localized mechanism has been proposed to explain the famous two-billion-year-old carbon isotopic signature?",
+        "choices": [
+          {
+            "text": "Local magma intruding into sedimentary rocks, cooking hydrocarbons, and feeding subsurface methane-eating microbes.",
+            "correct": true,
+            "explanation": "The re-evaluation suggests that rather than representing a global atmospheric shift, this distinct chemical signature was produced locally by subterranean magmatic heat, hydrocarbons, and specialized microbes.",
+            "source": {
+              "label": "Scientists may have misread a 2-billion-year-old clue about Earth",
+              "url": "https://www.sciencedaily.com/releases/2026/09/260925093201.htm"
+            }
+          },
+          {
+            "text": "A sudden, planet-wide crash in photosynthetic organisms that triggered an atmospheric carbon dioxide spike.",
+            "correct": false,
+            "explanation": "This is incorrect because the study demonstrates that the signature was caused by local subsurface geological and biological processes rather than a global atmospheric event."
+          },
+          {
+            "text": "A massive asteroid impact that vaporized carbon deposits and disrupted the global carbon cycle.",
+            "correct": false,
+            "explanation": "This is incorrect because the proposed mechanism relies on localized magma intrusions and subterranean microbes, not an asteroid impact."
+          },
+          {
+            "text": "Global ocean cooling that restricted all biological carbon cycling to deep-sea hydrothermal vents.",
+            "correct": false,
+            "explanation": "This is incorrect because the signature is attributed to the thermal cooking of hydrocarbons by local magma and subsequent microbial consumption, not global cooling."
+          }
+        ]
+      },
+      {
+        "question": "How do these two scientific discoveries collectively change our understanding of Earth's transition to a habitable planet?",
+        "choices": [
+          {
+            "text": "They suggest that Earth's oxygenation was a highly fragmented, patchy, and localized process rather than a sudden, uniform global event.",
+            "correct": true,
+            "explanation": "Re-evaluating the global chemical signature as a localized event, combined with the localized environmental restrictions seen in the fossil record, suggests that the path to a habitable planet was non-linear and characterized by localized oxygen oases.",
+            "source": {
+              "label": "Scientists may have misread a 2-billion-year-old clue about Earth",
+              "url": "https://www.sciencedaily.com/releases/2026/09/260925093201.htm"
+            }
+          },
+          {
+            "text": "They prove that early complex cells did not actually require oxygen to survive and evolve.",
+            "correct": false,
+            "explanation": "This is incorrect because the Australian fossil study provides strong evidence that early eukaryotes were strictly restricted to environments where oxygen was present."
+          },
+          {
+            "text": "They confirm that a synchronized global rise in atmospheric oxygen occurred precisely two billion years ago.",
+            "correct": false,
+            "explanation": "This is incorrect because the re-evaluation of the two-billion-year-old chemical signature casts doubt on whether it recorded a global atmospheric event at all."
+          },
+          {
+            "text": "They demonstrate that geological preservation bias is the sole reason for the absence of complex life in older rock layers.",
+            "correct": false,
+            "explanation": "This is incorrect because while preservation bias is a methodological caution, the fossil study's consistent results across diverse environments indicate a genuine ecological restriction, not just a preservation artifact."
+          }
+        ]
+      }
+    ]
+  },
+  {
     "title": "Redefining the Spectrum: How Changing Diagnostics and Hidden Genetics Shape Our Understanding of Neurodiversity",
     "publishedAt": "2026-09-26",
     "spotifyUrl": "https://open.spotify.com/episode/05a7bTcx5SCQm6ss3SAdWv",
