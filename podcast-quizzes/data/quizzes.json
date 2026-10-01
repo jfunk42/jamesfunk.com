@@ -1,5 +1,104 @@
 [
   {
+    "title": "Building the Lunar Infrastructure: Communication and Science for Moon Base",
+    "publishedAt": "2026-10-01",
+    "description": "This episode explores the critical communication networks and scientific payloads being developed to establish and sustain humanity's first lunar outpost, Moon Base.",
+    "tags": [
+      "Space Exploration",
+      "Lunar Communications",
+      "NASA"
+    ],
+    "questions": [
+      {
+        "question": "Which scientific payload suite intended for Moon Base had its name officially corrected by NASA in late September 2026?",
+        "choices": [
+          {
+            "text": "DISCO",
+            "correct": true,
+            "explanation": "The podcast transcript and NASA announcements specify that the name of the DISCO payload suite was officially corrected by NASA in late September 2026.",
+            "source": {
+              "label": "NASA Adds New Science Investigations for Moon Base",
+              "url": "https://www.nasa.gov/news-release/nasa-adds-new-science-investigations-for-moon-base/"
+            }
+          },
+          {
+            "text": "Artemis-1",
+            "correct": false,
+            "explanation": "Artemis-1 was a flight test of the Space Launch System and Orion spacecraft, not a newly selected scientific payload suite for Moon Base that had its name corrected in late September 2026."
+          },
+          {
+            "text": "REGOLITH",
+            "correct": false,
+            "explanation": "Regolith refers to the abrasive, electrostatically charged lunar dust and soil, not the name of the specific scientific payload suite corrected by NASA."
+          },
+          {
+            "text": "APOLLO",
+            "correct": false,
+            "explanation": "Apollo refers to NASA's historical crewed lunar landing program from the 1960s and 1970s, not a newly selected scientific investigation for the future Moon Base."
+          }
+        ]
+      },
+      {
+        "question": "Which company was awarded a NASA contract to develop key elements of a standards-based 5G and Wi-Fi 6 communications system for the lunar surface?",
+        "choices": [
+          {
+            "text": "Modulate Space Corporation",
+            "correct": true,
+            "explanation": "The podcast transcript states that NASA awarded a contract to Modulate Space Corporation to develop key elements of a 5G communications system for the lunar surface, featuring Wi-Fi 6 capabilities.",
+            "source": {
+              "label": "NASA Awards Contract to Develop 5G Communications for Moon",
+              "url": "https://www.nasa.gov/news-release/nasa-awards-contract-to-develop-5g-communications-for-moon/"
+            }
+          },
+          {
+            "text": "LunarNet Technologies",
+            "correct": false,
+            "explanation": "LunarNet Technologies is not mentioned in the transcript or sources as the company awarded this lunar 5G development contract."
+          },
+          {
+            "text": "Glenn Communications Group",
+            "correct": false,
+            "explanation": "While NASA's Glenn Research Center in Cleveland is managing the project, it is a NASA center rather than the private company awarded the development contract."
+          },
+          {
+            "text": "Artemis Telecom",
+            "correct": false,
+            "explanation": "Artemis Telecom is not a real entity mentioned in the transcript or the approved sources."
+          }
+        ]
+      },
+      {
+        "question": "What critical need for sustained lunar exploration is the 2027 Human Lander Challenge specifically seeking to address through student innovation?",
+        "choices": [
+          {
+            "text": "Reliable communications",
+            "correct": true,
+            "explanation": "According to the transcript and NASA sources, the 2027 Human Lander Challenge invites college and university students to address reliable communications, which is described as one of the most critical needs for sustained lunar exploration.",
+            "source": {
+              "label": "NASA Opens 2027 Human Lander Challenge for Lunar Communications",
+              "url": "https://www.nasa.gov/directorates/esdmd/artemis-campaign-development-division/human-landing-system-program/nasa-opens-2027-human-lander-challenge-for-lunar-communications/"
+            }
+          },
+          {
+            "text": "Nuclear power generation",
+            "correct": false,
+            "explanation": "While power generation is discussed as a major hurdle during the lunar night, it is not the focus of the 2027 Human Lander Challenge."
+          },
+          {
+            "text": "Radiation shielding",
+            "correct": false,
+            "explanation": "Although protecting astronauts and electronics from space radiation is a key obstacle for Moon Base, it is not the primary topic of the 2027 Human Lander Challenge."
+          },
+          {
+            "text": "Regolith dust mitigation",
+            "correct": false,
+            "explanation": "Dust mitigation is a severe physical constraint mentioned in the podcast, but the 2027 Human Lander Challenge specifically targets communications rather than dust solutions."
+          }
+        ]
+      }
+    ]
+  },
+  {
     "title": "Decoding Earth's Ancient Oxygen and the Rise of Complex Life",
     "publishedAt": "2026-09-28",
     "description": "This episode explores how ancient Australian fossils and a re-examined two-billion-year-old chemical signature reshape our understanding of oxygen's role in the rise of early complex life on Earth.",
