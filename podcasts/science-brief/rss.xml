@@ -10,7 +10,7 @@
     <description>Short, source-backed briefings on new discoveries in science, space, health, and technology.</description>
     <language>en-us</language>
     <copyright>Copyright 2026 James Funk</copyright>
-    <lastBuildDate>Sat, 26 Sep 2026 09:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 03:00:00 +0000</lastBuildDate>
     <managingEditor>james.c.funk@gmail.com (James Funk)</managingEditor>
     <webMaster>james.c.funk@gmail.com (James Funk)</webMaster>
     <itunes:title>jFunk42 Science Brief</itunes:title>
@@ -31,6 +31,21 @@
       <title>jFunk42 Science Brief</title>
       <link>https://jamesfunk.com/podcasts/science-brief/</link>
     </image>
+
+    <item>
+      <title>Building the Lunar Infrastructure: Communication and Science for Moon Base</title>
+      <description><![CDATA[This episode explores the critical communication networks and scientific payloads being developed to establish and sustain humanity's first lunar outpost, Moon Base.]]></description>
+      <content:encoded><![CDATA[<p>This episode explores the critical communication networks and scientific payloads being developed to establish and sustain humanity&#x27;s first lunar outpost, Moon Base.</p><p><a href="https://jamesfunk.com/podcast-quizzes/#Building%20the%20Lunar%20Infrastructure%3A%20Communication%20and%20Science%20for%20Moon%20Base">Read the sources and take the episode quiz.</a></p>]]></content:encoded>
+      <link>https://jamesfunk.com/podcast-quizzes/#Building%20the%20Lunar%20Infrastructure%3A%20Communication%20and%20Science%20for%20Moon%20Base</link>
+      <guid isPermaLink="false">jfunk42-science-brief-2026-10-01-03</guid>
+      <pubDate>Thu, 01 Oct 2026 03:00:00 +0000</pubDate>
+      <enclosure url="https://pub-a5157700a8ce49f8bdadd76b57425ba7.r2.dev/jfunk42-science-brief/episodes/2026-10-01-03.mp3" length="13172469" type="audio/mpeg"/>
+      <itunes:title>Building the Lunar Infrastructure: Communication and Science for Moon Base</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:duration>22:08</itunes:duration>
+      <itunes:image href="https://pub-a5157700a8ce49f8bdadd76b57425ba7.r2.dev/jfunk42-science-brief/artwork/2026-10-01-03-cover.png"/>
+    </item>
 
     <item>
       <title>Redefining the Spectrum: How Changing Diagnostics and Hidden Genetics Shape Our Understanding of Neurodiversity</title>
