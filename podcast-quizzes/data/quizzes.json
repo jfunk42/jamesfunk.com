@@ -1,5 +1,105 @@
 [
   {
+    "title": "Calibration in the Cosmos: How Scientists Test Next-Gen Spacecraft in Flight",
+    "publishedAt": "2026-10-05",
+    "description": "This episode explores how scientists validate advanced space technology, comparing terrestrial environmental testing of the DAVINCI Venus probe with the real-world in-flight calibration of ESA's Juice spacecraft and NASA's Roman Space Telescope.",
+    "tags": [
+      "Space Exploration",
+      "Aerospace Engineering",
+      "Planetary Science",
+      "Space Telescopes"
+    ],
+    "questions": [
+      {
+        "question": "During ground-based environmental testing for NASA's DAVINCI mission, what temperature did the engineering development unit successfully withstand?",
+        "choices": [
+          {
+            "text": "869 degrees Fahrenheit (465 degrees Celsius)",
+            "correct": true,
+            "explanation": "The engineering development unit of the DAVINCI probe was placed inside a specialized, ceramic-lined chamber where temperatures were ratcheted up to 869 degrees Fahrenheit (465 degrees Celsius) to test its structural integrity and thermal protection systems.",
+            "source": {
+              "label": "NASA\u2019s DAVINCI Probe Can Stand the Heat",
+              "url": "https://www.nasa.gov/image-article/nasas-davinci-probe-can-stand-the-heat/"
+            }
+          },
+          {
+            "text": "1,200 degrees Fahrenheit (649 degrees Celsius)",
+            "correct": false,
+            "explanation": "This temperature is incorrect because the ground-based thermal chamber test only heated the DAVINCI prototype up to 869 degrees Fahrenheit (465 degrees Celsius)."
+          },
+          {
+            "text": "525 degrees Fahrenheit (274 degrees Celsius)",
+            "correct": false,
+            "explanation": "This is incorrect because 525 degrees Fahrenheit is lower than the actual peak test temperature of 869 degrees Fahrenheit that the engineering development unit successfully endured."
+          },
+          {
+            "text": "150 degrees Fahrenheit (65 degrees Celsius)",
+            "correct": false,
+            "explanation": "This is incorrect because 150 degrees Fahrenheit is far too mild to simulate the extreme Venusian atmosphere, which required testing the probe at 869 degrees Fahrenheit."
+          }
+        ]
+      },
+      {
+        "question": "How did the gravity assist maneuver during the September 28 flyby physically affect the trajectory of ESA's Juice spacecraft?",
+        "choices": [
+          {
+            "text": "It changed its direction of travel by 20 degrees and increased its speed by 3.5 kilometers per second.",
+            "correct": true,
+            "explanation": "Using Earth's gravity as a slingshot, the Juice spacecraft successfully altered its direction of travel by 20 degrees and gained a speed boost of 3.5 kilometers per second without burning significant fuel.",
+            "source": {
+              "label": "ESA\u2019s Juice just used Earth as a slingshot to Jupiter",
+              "url": "https://www.sciencedaily.com/releases/2026/10/261001214102.htm"
+            }
+          },
+          {
+            "text": "It changed its direction of travel by 45 degrees and decreased its speed by 1.5 kilometers per second.",
+            "correct": false,
+            "explanation": "This is incorrect because the maneuver increased the speed of the spacecraft by 3.5 kilometers per second (rather than decreasing it) and altered its direction by 20 degrees, not 45 degrees."
+          },
+          {
+            "text": "It kept its direction completely unchanged but doubled its total velocity.",
+            "correct": false,
+            "explanation": "This is incorrect because the slingshot maneuver was specifically designed to reshape the trajectory, which resulted in a 20-degree change in direction and a 3.5 kilometers per second speed increase, not a simple doubling of velocity with zero directional change."
+          },
+          {
+            "text": "It reversed its direction of travel by 180 degrees and maintained a constant speed.",
+            "correct": false,
+            "explanation": "This is incorrect because the spacecraft did not perform a complete 180-degree U-turn, and its speed was increased by 3.5 kilometers per second rather than remaining constant."
+          }
+        ]
+      },
+      {
+        "question": "Which astronomical target did the coronagraph on NASA's Nancy Grace Roman Space Telescope image to demonstrate its initial optical alignment and focus?",
+        "choices": [
+          {
+            "text": "Stars in the Large Magellanic Cloud",
+            "correct": true,
+            "explanation": "The Roman telescope's planet-imaging coronagraph captured focused images of stars in the Large Magellanic Cloud, verifying that its complex optical path is working properly.",
+            "source": {
+              "label": "NASA\u2019s Roman telescope just opened its planet-hunting eye",
+              "url": "https://www.sciencedaily.com/releases/2026/10/261001214057.htm"
+            }
+          },
+          {
+            "text": "The Moon's cratered surface",
+            "correct": false,
+            "explanation": "This is incorrect because the Moon was utilized as a calibration target by the instruments on ESA's Juice spacecraft during its Earth-Moon flyby, not by the Roman Space Telescope's coronagraph."
+          },
+          {
+            "text": "The icy moons of Jupiter",
+            "correct": false,
+            "explanation": "This is incorrect because the icy moons of Jupiter are the final destination for ESA's Juice spacecraft, whereas the Roman Space Telescope imaged the stellar field of the Large Magellanic Cloud to test its optics."
+          },
+          {
+            "text": "The dense atmosphere of Venus",
+            "correct": false,
+            "explanation": "This is incorrect because the thick atmosphere of Venus is the target of NASA's DAVINCI probe, while the Roman telescope targeted stars in the Large Magellanic Cloud."
+          }
+        ]
+      }
+    ]
+  },
+  {
     "title": "Preserving the Brain: Dietary Interventions and Genetic Mechanisms in Neuroprotection",
     "publishedAt": "2026-10-02",
     "description": "This episode explores recent breakthroughs in neuroprotection, examining how specific dietary modifications can mitigate brain aging and depressive symptoms, alongside promising genetic research targeting the cellular damage caused by the APOE4 gene.",
