@@ -10,7 +10,7 @@
     <description>Short, source-backed briefings on new discoveries in science, space, health, and technology.</description>
     <language>en-us</language>
     <copyright>Copyright 2026 James Funk</copyright>
-    <lastBuildDate>Fri, 02 Oct 2026 09:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 09:00:00 +0000</lastBuildDate>
     <managingEditor>james.c.funk@gmail.com (James Funk)</managingEditor>
     <webMaster>james.c.funk@gmail.com (James Funk)</webMaster>
     <itunes:title>jFunk42 Science Brief</itunes:title>
@@ -31,6 +31,21 @@
       <title>jFunk42 Science Brief</title>
       <link>https://jamesfunk.com/podcasts/science-brief/</link>
     </image>
+
+    <item>
+      <title>Calibration in the Cosmos: How Scientists Test Next-Gen Spacecraft in Flight</title>
+      <description><![CDATA[This episode explores how scientists validate advanced space technology, comparing terrestrial environmental testing of the DAVINCI Venus probe with the real-world in-flight calibration of ESA's Juice spacecraft and NASA's Roman Space Telescope.]]></description>
+      <content:encoded><![CDATA[<p>This episode explores how scientists validate advanced space technology, comparing terrestrial environmental testing of the DAVINCI Venus probe with the real-world in-flight calibration of ESA&#x27;s Juice spacecraft and NASA&#x27;s Roman Space Telescope.</p><p><a href="https://jamesfunk.com/podcast-quizzes/#Calibration%20in%20the%20Cosmos%3A%20How%20Scientists%20Test%20Next-Gen%20Spacecraft%20in%20Flight">Read the sources and take the episode quiz.</a></p>]]></content:encoded>
+      <link>https://jamesfunk.com/podcast-quizzes/#Calibration%20in%20the%20Cosmos%3A%20How%20Scientists%20Test%20Next-Gen%20Spacecraft%20in%20Flight</link>
+      <guid isPermaLink="false">jfunk42-science-brief-2026-10-05-09</guid>
+      <pubDate>Mon, 05 Oct 2026 09:00:00 +0000</pubDate>
+      <enclosure url="https://pub-a5157700a8ce49f8bdadd76b57425ba7.r2.dev/jfunk42-science-brief/episodes/2026-10-05-09.mp3" length="14979981" type="audio/mpeg"/>
+      <itunes:title>Calibration in the Cosmos: How Scientists Test Next-Gen Spacecraft in Flight</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:duration>25:20</itunes:duration>
+      <itunes:image href="https://pub-a5157700a8ce49f8bdadd76b57425ba7.r2.dev/jfunk42-science-brief/artwork/2026-10-05-09-cover.png"/>
+    </item>
 
     <item>
       <title>Preserving the Brain: Dietary Interventions and Genetic Mechanisms in Neuroprotection</title>
