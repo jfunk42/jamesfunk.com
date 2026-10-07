@@ -1,5 +1,105 @@
 [
   {
+    "title": "Regrowing Joints and Rebalancing Microbes: The Rise of Targeted Molecular Therapies",
+    "publishedAt": "2026-10-07",
+    "description": "Recent breakthroughs reveal how targeted molecular strategies can regenerate damaged knee cartilage and rebalance oral bacteria without the need for destructive joint replacements or broad-spectrum antibiotics.",
+    "tags": [
+      "regenerative medicine",
+      "microbiome",
+      "cartilage",
+      "oral health"
+    ],
+    "questions": [
+      {
+        "question": "According to the Stanford University study, what biological mechanism prevents aging joints from repairing their own cartilage?",
+        "choices": [
+          {
+            "text": "The body produces an increased amount of a specific protein that acts as a molecular brake to actively block cartilage self-repair.",
+            "correct": true,
+            "explanation": "The transcript explains that as we age, our bodies produce a specific protein in much higher abundance that acts like a molecular brake, preventing joint cartilage self-repair. Blocking this protein with a specialized inhibitor released that brake.",
+            "source": {
+              "label": "Goodbye joint replacements? Stanford scientists found a way to regrow cartilage and stop arthritis",
+              "url": "https://www.sciencedaily.com/releases/2026/10/261005011249.htm"
+            }
+          },
+          {
+            "text": "Cartilage-producing cells (chondrocytes) in advanced joint disease die off completely, leaving no latent biological machinery to rebuild.",
+            "correct": false,
+            "explanation": "This is incorrect because the transcript notes that human cells from severely degenerated joints are not dead or permanently broken, but rather heavily suppressed, and they successfully produced new cartilage when treated."
+          },
+          {
+            "text": "The lack of a direct blood supply to cartilage tissue prevents critical signaling molecules from ever being produced in aging joints.",
+            "correct": false,
+            "explanation": "This is incorrect; although the transcript mentions that cartilage is avascular (lacking blood supply) as a challenge for drug delivery, this is not the age-related biological mechanism (the molecular brake protein) that actively blocks self-repair."
+          },
+          {
+            "text": "Mechanical wear and tear physically crushes and permanently disables the genetic code of the joint's chondrocyte cells.",
+            "correct": false,
+            "explanation": "This is incorrect; mechanical wear and tear is a physical stress, but it does not permanently disable or crush the genetic code of the chondrocytes, as these cells still retain their latent biological machinery to rebuild cartilage when the molecular brake is removed."
+          }
+        ]
+      },
+      {
+        "question": "Instead of using broad-spectrum antibiotics to kill oral bacteria, what targeted approach did researchers use to combat gum disease?",
+        "choices": [
+          {
+            "text": "They introduced a genetically modified predatory bacterium to hunt down and consume pathogens in dental plaque.",
+            "correct": false,
+            "explanation": "This is incorrect because the transcript does not mention introducing predatory bacteria; instead, the researchers targeted the communication signals of existing bacteria."
+          },
+          {
+            "text": "They used localized bioadhesive gels to physically trap and isolate harmful bacteria, preventing them from attaching to teeth.",
+            "correct": false,
+            "explanation": "This is incorrect; while bioadhesive gels are mentioned as a potential drug delivery technology, they are not the biological mechanism of the treatment itself, which focuses on disrupting chemical communication."
+          },
+          {
+            "text": "They disrupted the specific chemical signaling messages that bacteria use to communicate and coordinate their harmful biofilm activities.",
+            "correct": true,
+            "explanation": "The transcript explains that by disrupting the specific chemical messages (quorum sensing) that bacteria use to communicate, researchers prevented them from coordinating harmful activities and forming destructive plaque biofilms.",
+            "source": {
+              "label": "A new way to fight gum disease without wiping out good bacteria",
+              "url": "https://www.sciencedaily.com/releases/2026/10/261005012230.htm"
+            }
+          },
+          {
+            "text": "They completely sterilized the oral cavity using targeted nanoparticles that selectively destroy only pathogenic bacterial cell walls.",
+            "correct": false,
+            "explanation": "This is incorrect because the study moves away from total sterilization of the oral cavity (which is noted as both impossible and undesirable) and instead focuses on rebalancing the microbiome without killing the bacteria."
+          }
+        ]
+      },
+      {
+        "question": "What significant finding did Stanford researchers observe when they applied the molecular inhibitor to human cartilage cells in vitro?",
+        "choices": [
+          {
+            "text": "The cells immediately died due to the toxic off-target effects of blocking the protein in a sterile laboratory environment.",
+            "correct": false,
+            "explanation": "This is incorrect because the human cells did not die; instead, they successfully responded to the treatment by producing new, functional cartilage."
+          },
+          {
+            "text": "Even cells taken from severely degenerated joints scheduled for replacement began producing new, functional joint cartilage.",
+            "correct": true,
+            "explanation": "The transcript states that human cartilage cells harvested from patients undergoing knee replacement surgery\u2014joints considered severely degenerated\u2014retained the latent machinery to rebuild and successfully produced new cartilage when exposed to the inhibitor.",
+            "source": {
+              "label": "Goodbye joint replacements? Stanford scientists found a way to regrow cartilage and stop arthritis",
+              "url": "https://www.sciencedaily.com/releases/2026/10/261005011249.htm"
+            }
+          },
+          {
+            "text": "The human cells only responded if they were first combined with specialized stem cells harvested from healthy, young donors.",
+            "correct": false,
+            "explanation": "This is incorrect because the transcript does not mention combining the patient's cells with stem cells from young donors; the cells from the degenerated joints rebuilt cartilage on their own once the suppression was removed."
+          },
+          {
+            "text": "The inhibitor had no effect on the human cells, indicating that the molecular pathway is exclusive to rodent biology.",
+            "correct": false,
+            "explanation": "This is incorrect because the human cells did respond to the inhibitor, bridging the gap between the rodent model and human physiology by producing new, functional joint cartilage."
+          }
+        ]
+      }
+    ]
+  },
+  {
     "title": "Calibration in the Cosmos: How Scientists Test Next-Gen Spacecraft in Flight",
     "publishedAt": "2026-10-05",
     "description": "This episode explores how scientists validate advanced space technology, comparing terrestrial environmental testing of the DAVINCI Venus probe with the real-world in-flight calibration of ESA's Juice spacecraft and NASA's Roman Space Telescope.",
