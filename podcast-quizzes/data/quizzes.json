@@ -1,5 +1,104 @@
 [
   {
+    "title": "Cosmic Collisions: From Planetary Smash-ups to Neutron Star Mergers",
+    "publishedAt": "2026-10-09",
+    "description": "An exploration of the violent collisions shaping our universe, from Mars-sized planetary impacts detected by the Webb telescope to neutron star mergers observed in soft X-rays by the Einstein Probe.",
+    "tags": [
+      "astronomy",
+      "astrophysics",
+      "space exploration"
+    ],
+    "questions": [
+      {
+        "question": "How did astronomers using the James Webb Space Telescope find evidence of Mars-sized worlds colliding?",
+        "choices": [
+          {
+            "text": "By analyzing the massive, concentrated warm dust clouds within twenty-one rare extreme debris disks around young stars.",
+            "correct": true,
+            "explanation": "Webb's infrared instruments detected the heat from massive, concentrated clouds of warm dust in young systems, which physical models show is the result of high-energy, giant impacts between protoplanetary bodies.",
+            "source": {
+              "label": "NASA\u2019s Webb finds signs of Mars-sized worlds smashing together",
+              "url": "https://www.sciencedaily.com/releases/2026/10/261007042108.htm"
+            }
+          },
+          {
+            "text": "By directly recording high-definition video of Mars-sized planets colliding in real-time.",
+            "correct": false,
+            "explanation": "Astronomers cannot directly record videos of these distant events; they must analyze indirect, faint data points such as infrared signatures of dust grains."
+          },
+          {
+            "text": "By observing the steady-state, gradual grinding of asteroids around mature, stable stars.",
+            "correct": false,
+            "explanation": "Steady-state grinding around mature stars produces much less dust over long periods, whereas the 'extreme debris disks' Webb observed require a massive, sudden injection of energy and material."
+          },
+          {
+            "text": "By collecting physical geological core samples from distant exoplanets to study impact craters.",
+            "correct": false,
+            "explanation": "We currently do not possess the technology to physically visit other stellar systems and collect core samples; our observations are entirely remote."
+          }
+        ]
+      },
+      {
+        "question": "What previously hidden phase of neutron star collisions did the Einstein Probe detect?",
+        "choices": [
+          {
+            "text": "Nearly ten minutes of soft X-ray activity following a short gamma-ray burst.",
+            "correct": true,
+            "explanation": "The Einstein Probe used its unique, wide-field focusing optics to reveal a sustained, ten-minute window of soft X-ray emissions that occurs after a short gamma-ray burst.",
+            "source": {
+              "label": "Einstein Probe reveals a hidden phase of neutron star collisions",
+              "url": "https://www.sciencedaily.com/releases/2026/10/261006234511.htm"
+            }
+          },
+          {
+            "text": "A continuous stream of gravitational waves lasting for several days after the collision.",
+            "correct": false,
+            "explanation": "Gravitational waves from neutron star mergers are extremely fleeting signals detected by ground-based observatories, not sustained emissions detected by X-ray space probes over several days."
+          },
+          {
+            "text": "A permanent, highly visible beam of optical light shining from the merger's core.",
+            "correct": false,
+            "explanation": "The emission detected was in the soft X-ray spectrum and lasted about ten minutes, rather than being a permanent or highly visible optical light beam."
+          },
+          {
+            "text": "A direct imaging sequence showing a black hole actively swallowing a neutron star.",
+            "correct": false,
+            "explanation": "The Einstein Probe did not capture direct images of a black hole swallowing a neutron star; it detected a transient soft X-ray glow following a short gamma-ray burst."
+          }
+        ]
+      },
+      {
+        "question": "What theoretical engine do researchers suggest could have powered the prolonged soft X-ray emission detected by the Einstein Probe?",
+        "choices": [
+          {
+            "text": "A newly formed, highly active spinning magnetar.",
+            "correct": true,
+            "explanation": "A newly born magnetar, which is a highly magnetic and rapidly spinning neutron star, would continuously dump energy into its surroundings and heat up the local environment to produce the observed soft X-ray glow.",
+            "source": {
+              "label": "Einstein Probe reveals a hidden phase of neutron star collisions",
+              "url": "https://www.sciencedaily.com/releases/2026/10/261006234511.htm"
+            }
+          },
+          {
+            "text": "A stable main-sequence yellow dwarf star.",
+            "correct": false,
+            "explanation": "Yellow dwarf stars, like our Sun, are stable, low-to-medium mass stars, not the extreme, highly magnetized remnants formed during a high-energy neutron star collision."
+          },
+          {
+            "text": "An ancient red giant undergoing helium fusion.",
+            "correct": false,
+            "explanation": "Red giants are highly evolved, bloated stars in late stages of stellar evolution, not ultra-dense, highly energetic remnants of a binary neutron star merger."
+          },
+          {
+            "text": "A dark matter halo collapsing into a supermassive black hole.",
+            "correct": false,
+            "explanation": "The merger of two neutron stars is a stellar-scale event involving baryonic (normal) matter, not a galactic-scale event involving dark matter collapse."
+          }
+        ]
+      }
+    ]
+  },
+  {
     "title": "Regrowing Joints and Rebalancing Microbes: The Rise of Targeted Molecular Therapies",
     "publishedAt": "2026-10-07",
     "description": "Recent breakthroughs reveal how targeted molecular strategies can regenerate damaged knee cartilage and rebalance oral bacteria without the need for destructive joint replacements or broad-spectrum antibiotics.",
