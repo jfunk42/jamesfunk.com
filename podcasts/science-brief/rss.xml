@@ -10,7 +10,7 @@
     <description>Short, source-backed briefings on new discoveries in science, space, health, and technology.</description>
     <language>en-us</language>
     <copyright>Copyright 2026 James Funk</copyright>
-    <lastBuildDate>Wed, 07 Oct 2026 09:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 09:00:00 +0000</lastBuildDate>
     <managingEditor>james.c.funk@gmail.com (James Funk)</managingEditor>
     <webMaster>james.c.funk@gmail.com (James Funk)</webMaster>
     <itunes:title>jFunk42 Science Brief</itunes:title>
@@ -31,6 +31,21 @@
       <title>jFunk42 Science Brief</title>
       <link>https://jamesfunk.com/podcasts/science-brief/</link>
     </image>
+
+    <item>
+      <title>Cosmic Collisions: From Planetary Smash-ups to Neutron Star Mergers</title>
+      <description><![CDATA[An exploration of the violent collisions shaping our universe, from Mars-sized planetary impacts detected by the Webb telescope to neutron star mergers observed in soft X-rays by the Einstein Probe.]]></description>
+      <content:encoded><![CDATA[<p>An exploration of the violent collisions shaping our universe, from Mars-sized planetary impacts detected by the Webb telescope to neutron star mergers observed in soft X-rays by the Einstein Probe.</p><p><a href="https://jamesfunk.com/podcast-quizzes/#Cosmic%20Collisions%3A%20From%20Planetary%20Smash-ups%20to%20Neutron%20Star%20Mergers">Read the sources and take the episode quiz.</a></p>]]></content:encoded>
+      <link>https://jamesfunk.com/podcast-quizzes/#Cosmic%20Collisions%3A%20From%20Planetary%20Smash-ups%20to%20Neutron%20Star%20Mergers</link>
+      <guid isPermaLink="false">jfunk42-science-brief-2026-10-09-09</guid>
+      <pubDate>Fri, 09 Oct 2026 09:00:00 +0000</pubDate>
+      <enclosure url="https://pub-a5157700a8ce49f8bdadd76b57425ba7.r2.dev/jfunk42-science-brief/episodes/2026-10-09-09.mp3" length="12603357" type="audio/mpeg"/>
+      <itunes:title>Cosmic Collisions: From Planetary Smash-ups to Neutron Star Mergers</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:duration>21:28</itunes:duration>
+      <itunes:image href="https://pub-a5157700a8ce49f8bdadd76b57425ba7.r2.dev/jfunk42-science-brief/artwork/2026-10-09-09-cover.png"/>
+    </item>
 
     <item>
       <title>Regrowing Joints and Rebalancing Microbes: The Rise of Targeted Molecular Therapies</title>
