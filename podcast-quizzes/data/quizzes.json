@@ -1,5 +1,105 @@
 [
   {
+    "title": "Next-Generation Orbital Infrastructure and Spacecraft Re-Entry Technologies",
+    "publishedAt": "2026-10-10",
+    "description": "This episode examines recent milestones in low Earth orbit infrastructure, including the 237-day Crew-12 splashdown, experimental re-entry heat shield capsule testing, close-proximity satellite inspection technologies, and commercial space station plans.",
+    "tags": [
+      "spaceflight",
+      "low Earth orbit",
+      "NASA",
+      "space technology"
+    ],
+    "questions": [
+      {
+        "question": "How many days did the SpaceX Crew-12 crew spend in space prior to their splashdown on October 8, 2026?",
+        "choices": [
+          {
+            "text": "237 days",
+            "correct": true,
+            "explanation": "The four Crew-12 members spent 237 days in space, logged over 100 million miles, and completed more than 3,792 orbits around Earth before splashing down off the coast of California.",
+            "source": {
+              "label": "NASA astronauts splash down after 100 million miles in space",
+              "url": "https://www.sciencedaily.com/releases/2026/10/261008232629.htm"
+            }
+          },
+          {
+            "text": "180 days",
+            "correct": false,
+            "explanation": "180 days is incorrect; the Crew-12 mission lasted 237 days in orbit."
+          },
+          {
+            "text": "365 days",
+            "correct": false,
+            "explanation": "365 days is incorrect; while the mission lasted nearly eight months, the total orbital duration was 237 days."
+          },
+          {
+            "text": "100 days",
+            "correct": false,
+            "explanation": "100 days is incorrect; 100 refers to the 100 million miles logged during the mission, not the number of days in orbit."
+          }
+        ]
+      },
+      {
+        "question": "How did NASA gather atmospheric heating data for next-generation heat shield materials during the disposal of Northrop Grumman's 24th cargo resupply mission?",
+        "choices": [
+          {
+            "text": "By attaching heat shield sensors directly to active operational satellites in low Earth orbit.",
+            "correct": false,
+            "explanation": "The experiments were integrated into an uncrewed cargo vehicle's disposal run, not attached to active operational satellites."
+          },
+          {
+            "text": "By releasing a fleet of 12 small, experimental capsules into the atmosphere during re-entry.",
+            "correct": true,
+            "explanation": "As the cargo vehicle entered the upper atmosphere during routine station waste disposal, 12 small experimental capsules were released to test advanced heat shield materials under real atmospheric conditions.",
+            "source": {
+              "label": "NASA Demonstrates Next-Generation Heat Shield Technologies",
+              "url": "https://www.nasa.gov/centers-and-facilities/ames/nasa-demonstrates-next-generation-heat-shield-technologies/"
+            }
+          },
+          {
+            "text": "By deploying a single full-scale crew capsule into Earth's atmosphere at lunar return speeds.",
+            "correct": false,
+            "explanation": "The test used 12 small-scale experimental capsules dropped from an orbital cargo disposal run, not a full-scale crew capsule."
+          },
+          {
+            "text": "By conducting simulated arc-jet heating tests inside the space station prior to undocking.",
+            "correct": false,
+            "explanation": "Arc-jet facilities are ground-based chambers; the mission collected actual physical flight performance data during atmospheric entry."
+          }
+        ]
+      },
+      {
+        "question": "What is the primary objective of NASA's SSPICY mission, launched on October 1, 2026?",
+        "choices": [
+          {
+            "text": "To physically capture and de-orbit heavy pieces of orbital space debris using robotic arms.",
+            "correct": false,
+            "explanation": "SSPICY is focused on testing proximity guidance, propulsion, and visual inspection sensors, rather than performing active robotic capture or physical de-orbiting."
+          },
+          {
+            "text": "To serve as the first commercially operated space station leased by NASA for crew microgravity research.",
+            "correct": false,
+            "explanation": "SSPICY is a small spacecraft technology demonstration mission, not a commercial space station platform."
+          },
+          {
+            "text": "To perform close-proximity maneuvers and test inspection technologies near inactive satellites.",
+            "correct": true,
+            "explanation": "SSPICY (Small Spacecraft Propulsion and Inspection Capability) was launched to demonstrate close-proximity operations, precision guidance, and inspection capabilities around non-operational satellites.",
+            "source": {
+              "label": "NASA\u2019s SSPICY Mission to Demonstrate In-Space Inspection Technologies",
+              "url": "https://www.nasa.gov/centers-and-facilities/ames/nasas-sspicy-mission-to-demonstrate-in-space-inspection-technologies/"
+            }
+          },
+          {
+            "text": "To transport routine supplies and test experimental heat shield capsules during station cargo re-entry.",
+            "correct": false,
+            "explanation": "Heat shield capsule testing was conducted on Northrop Grumman's 24th resupply cargo vehicle, not the SSPICY mission."
+          }
+        ]
+      }
+    ]
+  },
+  {
     "title": "Cosmic Collisions: From Planetary Smash-ups to Neutron Star Mergers",
     "publishedAt": "2026-10-09",
     "description": "An exploration of the violent collisions shaping our universe, from Mars-sized planetary impacts detected by the Webb telescope to neutron star mergers observed in soft X-rays by the Einstein Probe.",
